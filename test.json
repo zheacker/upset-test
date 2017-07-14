@@ -1,5 +1,5 @@
 {
-     "file": "https://github.com/zheacker/upset-test/blob/develop/csvTest.csv",
+     "file": "https://raw.githubusercontent.com/zheacker/upset-test/master/csvTest.csv",
      "name": "test",
      "header": 0,
      "separator": ",",
