@@ -1,6 +1,6 @@
 {
      "file": "https://raw.githubusercontent.com/zheacker/upset-test/master/csvTest.csv",
-     "name": "test",
+     "name": "move calls",
      "header": 0,
      "separator": ",",
      "skip": 0,
