@@ -1,5 +1,5 @@
 {
-     "file": "https://raw.githubusercontent.com/zheacker/upset-test/master/4-1-6-30.csv",
+     "file": "https://raw.githubusercontent.com/zheacker/upset-test/master/merge.csv",
      "name": "move calls",
      "header": 0,
      "separator": ",",
@@ -8,6 +8,6 @@
           { "type": "id", "index": 0, "name": "Call ID" }
      ],
      "sets": [
-          { "format": "binary", "start": 1, "end": 7 }
+          { "format": "binary", "start": 1, "end": 9 }
      ]
 }
